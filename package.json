@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "http-server": "^14.0.0"
+    "http-server": "^14.0.0",
+    "pixi.js": "^6.2.0"
   },
   "scripts": {
     "start": "http-server ."
